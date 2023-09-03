@@ -25,3 +25,4 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - 
 
 # Workflow
+![dotCMS logo](//dotcms.com/img/logo.png)
