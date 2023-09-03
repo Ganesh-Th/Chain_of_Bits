@@ -1,3 +1,5 @@
+# Empowering Transactions with Ethereum Smart Contracts
+
 # Identification of topic:
 
 Web 3.0 is the next evolution of the internet, where the focus is on decentralization and blockchain technology plays a crucial role in it. Our application will use blockchain technology to enable secure and transparent transactions without the need for intermediaries like banks or payment processors.
