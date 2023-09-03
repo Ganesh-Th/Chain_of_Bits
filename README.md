@@ -26,3 +26,4 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 
 # Workflow
 ![dotCMS logo](//dotcms.com/img/logo.png)
+![WhatsApp Image 2023-09-03 at 9 35 12 PM](https://github.com/Ganesh-Th/Chain_of_Bits/assets/136326209/336e966f-336c-433c-8c8d-c8dc0b9f18b2)
