@@ -1,6 +1,4 @@
-## Introduction
-
-##SOFTWARE/API REQUIREMENTS
+# SOFTWARE/API REQUIREMENTS
 - VS Code
 - Vite
 - Tailwindcss
