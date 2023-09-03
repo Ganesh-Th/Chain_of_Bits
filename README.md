@@ -10,9 +10,9 @@ Our smart contract will include a set of predefined rules for the transaction, s
 
 In summary, our Web 3.0 application will leverage blockchain technology to enable fast, secure, and transparent transactions without the need for intermediaries. By using Solidity, MetaMask, and React.js, we will create a frictionless user experience that empowers our users to take control of their assets.
 
-====================
+- - - - - - - - - - - - - - - - - - - -
 
-# SOFTWARE/API REQUIREMENTS
+# Software/API Requirements
 - VS Code
 - Vite
 - Tailwindcss
@@ -20,4 +20,4 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - Hardhat
 - Quicknode/Georli
 - Metamask
-- alchemy
+- Alchemy
