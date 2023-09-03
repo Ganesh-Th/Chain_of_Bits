@@ -9,3 +9,15 @@ To enable transactions on the Ethereum network, we will write smart contracts us
 Our smart contract will include a set of predefined rules for the transaction, such as the exchange rate, amount of ethereum being exchanged,the keyword that is going to be saved as data in the blockchain,and any message if requried and further more things as we work on the project. Once the rules are set, the contract is executed automatically, and the transaction is recorded on the blockchain, ensuring that it is transparent, secure, and immutable.
 
 In summary, our Web 3.0 application will leverage blockchain technology to enable fast, secure, and transparent transactions without the need for intermediaries. By using Solidity, MetaMask, and React.js, we will create a frictionless user experience that empowers our users to take control of their assets.
+
+====================
+
+# SOFTWARE/API REQUIREMENTS
+- VS Code
+- Vite
+- Tailwindcss
+- Solidity
+- Hardhat
+- Quicknode/Georli
+- Metamask
+- alchemy
