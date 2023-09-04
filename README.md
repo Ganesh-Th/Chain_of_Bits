@@ -52,7 +52,7 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - Integrate Tailwind CSS for styling.
 - Design the home page and user dashboard.
 
-### Week 4: Blockchain Environment Setup (DINESH VARSHAN)
+### Week 4: Blockchain Environment Setup (DINESH VARSHAN T)
 
 - Install and configure Hardhat for Ethereum development.
 - Create a local blockchain development environment.
@@ -76,7 +76,7 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - Test smart contracts on the Ropsten testnet.
 - Debug and resolve any contract issues.
 
-### Week 10: Metamask Wallet Setup (DINESH VERSHAN)
+### Week 10: Metamask Wallet Setup (DINESH VARSHAN T)
 
 - Create Ethereum wallets for testing using Metamask.
 - Obtain test Ethereum (Ether) from the Goerli network.
