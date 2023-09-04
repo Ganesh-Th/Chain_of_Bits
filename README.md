@@ -1,4 +1,4 @@
-# Empowering Transactions with Ethereum Smart Contracts
+# Empowering Transactions with Ethereum and Smart Contracts
 
 # Identification of topic:
 
