@@ -16,7 +16,9 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 
 # Software/API Requirements
 - VS Code
+  * Visual Studio Code (VS Code) is a popular, free, and open-source code editor
 - Vite
+  * Vite is a modern, lightweight, and fast development build tool and web application framework for JavaScript and TypeScript projects
 - Tailwindcss
 - Solidity
 - Hardhat
