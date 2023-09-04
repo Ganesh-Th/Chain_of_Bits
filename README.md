@@ -35,7 +35,9 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - 
 
 ## Workflow🔁:
+![blockchain img](https://github.com/Ganesh-Th/Chain_of_Bits/assets/136326209/d6de4396-90cd-4e2a-bd15-5f35b885f795)
 ![WhatsApp Image 2023-09-03 at 9 35 12 PM](https://github.com/Ganesh-Th/Chain_of_Bits/assets/136326209/336e966f-336c-433c-8c8d-c8dc0b9f18b2)
+
 
 ## Project Breakdown📒:
 
