@@ -40,7 +40,7 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 
 ## Project Breakdown📒:
 
-### Week 1: Project Planing
+### Week 1: Project Planing (All Members)
 
 - Define project objectives, scope, and deliverables.
 - Choose development tools and technologies.
