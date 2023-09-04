@@ -1,6 +1,6 @@
 # Empowering Transactions with Ethereum and Smart Contracts
 
-# Identification of topic:
+## Identification of topic💡:
 
 Web 3.0 is the next evolution of the internet, where the focus is on decentralization and blockchain technology plays a crucial role in it. Our application will use blockchain technology to enable secure and transparent transactions without the need for intermediaries like banks or payment processors.
 
@@ -14,7 +14,7 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 
 - - - - - - - - - - - - - - - - - - - -
 
-# Software/API Requirements
+## Software/API Requirements💻:
 - VS Code
   * Visual Studio Code (VS Code) is a popular, free, and open-source code editor
 - Vite
@@ -34,10 +34,10 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 
 - - - - - - - - - - - - - - - - - - - 
 
-# Workflow
+## Workflow🔁:
 ![WhatsApp Image 2023-09-03 at 9 35 12 PM](https://github.com/Ganesh-Th/Chain_of_Bits/assets/136326209/336e966f-336c-433c-8c8d-c8dc0b9f18b2)
 
-# Project Breakdown
+## Project Breakdown📒:
 
 ### Week 1: Project Planing
 
@@ -101,4 +101,4 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - 
 
 ## Reference:
-[YouTube](https://youtu.be/Wn_Kb3MR_cU?si=UD5cM-vEB8rJmL8F)
+[Click here](https://youtu.be/Wn_Kb3MR_cU?si=UD5cM-vEB8rJmL8F)
