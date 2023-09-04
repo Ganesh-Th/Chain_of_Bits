@@ -35,7 +35,6 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - 
 
 ## Workflow🔁:
-![blockchain img](https://github.com/Ganesh-Th/Chain_of_Bits/assets/136326209/d6de4396-90cd-4e2a-bd15-5f35b885f795)
 ![WhatsApp Image 2023-09-03 at 9 35 12 PM](https://github.com/Ganesh-Th/Chain_of_Bits/assets/136326209/336e966f-336c-433c-8c8d-c8dc0b9f18b2)
 
 
@@ -103,23 +102,14 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - 
 
 ## Reference🧾:
--[Click here](https://www.ibm.com/blog/how-transparency-through-blockchain-helps-the-cybersecurity-community/)
+- [how-transparency-through-blockchain-helps-the-cybersecurity-community](https://www.ibm.com/blog/how-transparency-through-blockchain-helps-the-cybersecurity-community/)
  
--[Click here](https://builtin.com/blockchain/blockchain-applications)
+- [blockchain-applications](https://builtin.com/blockchain/blockchain-applications)
 
--[Click here](https://github.com/mradkov/p2p-lending)
+- [using-blockchain-for-secure-and-transparent-payments](https://blog.railwaymen.org/using-blockchain-for-secure-and-transparent-payments)
 
--[Click here](https://blog.railwaymen.org/using-blockchain-for-secure-and-transparent-payments)
+- [Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
--[Click here](https://www.knowledgehut.com/blog/blockchain/blockchain-projects)
+- [How Blockchain Wallet Works | Blockchain Technology](https://www.youtube.com/watch?v=zTHtK1ctgp0&t=1032s)
 
--[Click here](https://yourstory.com/2023/07/how-to-use-blockchain-technology-business)
-
--[Click here](https://www.youtube.com/watch?v=ZpXZK7HFqc8&t=13s)
-
--[Click here](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
-
--[Click here](https://www.youtube.com/watch?v=zTHtK1ctgp0&t=1032s)
-
--[Click here](https://www.youtube.com/watch?v=aCl6YeNWBZU&t=346s)
 
