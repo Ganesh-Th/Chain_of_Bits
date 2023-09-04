@@ -1,4 +1,4 @@
-# Empowering Transactions with Ethereum and Smart Contracts
+# Empowering Transactions with Ethereum Integration and Smart Contracts
 
 ## Identification of topic💡:
 
@@ -100,5 +100,5 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 
 - - - - - - - - - - - - - - - - - - - 
 
-## Reference:
+## Reference🧾:
 [Click here](https://youtu.be/Wn_Kb3MR_cU?si=UD5cM-vEB8rJmL8F)
