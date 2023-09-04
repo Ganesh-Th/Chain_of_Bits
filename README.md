@@ -4,7 +4,7 @@
 
 Web 3.0 is the next evolution of the internet, where the focus is on decentralization and blockchain technology plays a crucial role in it. Our application will use blockchain technology to enable secure and transparent transactions without the need for intermediaries like banks or payment processors.
 
-To build this application, we will use React.js, a popular front-end development library, to create a user-friendly and intuitive interface for our users. We will also use MetaMask, a browser extension, to connect our React.js application to the Ethereum network or Ethereum Wallet.
+To build this application, we will use ***React.js***, a popular front-end development library, to create a user-friendly and intuitive interface for our users. We will also use ***MetaMask***, a browser extension, to connect our React.js application to the Ethereum network or Ethereum Wallet.
 
 To enable transactions on the Ethereum network, we will write smart contracts using the Solidity programming language. Smart contracts are self-executing programs that run on the Ethereum blockchain and enable the exchange of assets, such as cryptocurrencies or other digital assets, between parties.
 
@@ -87,6 +87,5 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - Integration with MetaMask for Ethereum wallet pairing.
 - Solidity smart contracts for secure and transparent transactions.
 - Alchemy for blockchain data access.
-- Successful testing on testnets (Ropsten and Goerli).
-- Deployment on Hostinger or an alternative platform.
+- Successful testing on testnets (Quicknode/Goerli).
 - Comprehensive project documentation.
