@@ -1,5 +1,5 @@
 # Empowering Transactions with Ethereum Integration and Smart Contracts
-project for our CSI3013 - Blockchain Technologies course, guided by Dr. Manuver Sir.
+
 ## Identification of topic💡:
 
 Web 3.0 is the next evolution of the internet, where the focus is on decentralization and blockchain technology plays a crucial role in it. Our application will use blockchain technology to enable secure and transparent transactions without the need for intermediaries like banks or payment processors.
@@ -102,11 +102,11 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - 
 
 ## Reference🧾:
-- [how-transparency-through-blockchain-helps-the-cybersecurity-community](https://www.ibm.com/blog/how-transparency-through-blockchain-helps-the-cybersecurity-community/)
+- [How transparency through blockchain helps the cybersecurity community](https://www.ibm.com/blog/how-transparency-through-blockchain-helps-the-cybersecurity-community/)
  
-- [blockchain-applications](https://builtin.com/blockchain/blockchain-applications)
+- [Blockchain applications](https://builtin.com/blockchain/blockchain-applications)
 
-- [using-blockchain-for-secure-and-transparent-payments](https://blog.railwaymen.org/using-blockchain-for-secure-and-transparent-payments)
+- [Using blockchain for secure and transparent payments](https://blog.railwaymen.org/using-blockchain-for-secure-and-transparent-payments)
 
 - [Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
