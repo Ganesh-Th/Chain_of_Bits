@@ -6,7 +6,7 @@ Web 3.0 is the next evolution of the internet, where the focus is on decentraliz
 
 To build this application, we will use ***React.js***, a popular front-end development library, to create a user-friendly and intuitive interface for our users. We will also use ***MetaMask***, a browser extension, to connect our React.js application to the Ethereum network or Ethereum Wallet.
 
-To enable transactions on the Ethereum network, we will write smart contracts using the Solidity programming language. Smart contracts are self-executing programs that run on the Ethereum blockchain and enable the exchange of assets, such as cryptocurrencies or other digital assets, between parties.
+To enable transactions on the Ethereum network, we will write smart contracts using the ***Solidity*** programming language. Smart contracts are self-executing programs that run on the Ethereum blockchain and enable the exchange of assets, such as cryptocurrencies or other digital assets, between parties.
 
 Our smart contract will include a set of predefined rules for the transaction, such as the exchange rate, the amount of Ethereum being exchanged, the keyword that is going to be saved as data in the blockchain, and any message if required and furthermore things as we work on the project. Once the rules are set, the contract is executed automatically, and the transaction is recorded on the blockchain, ensuring that it is transparent, secure, and immutable.
 
@@ -20,11 +20,17 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - Vite
   * Vite is a modern, lightweight, and fast development build tool and web application framework for JavaScript and TypeScript projects
 - Tailwindcss
+  * Tailwind CSS is a highly popular utility-first CSS framework that simplifies and streamlines the process of designing and styling web applications.
 - Solidity
+  * Solidity is a high-level, statically typed programming language primarily used for developing smart contracts on the Ethereum blockchain platform.
 - Hardhat
+  * Hardhat is a popular development environment and toolset for Ethereum smart contract development
 - Quicknode/Georli
+  * An Ethereum faucet is a developer tool to get testnet Ether (ETH) in order to test and troubleshoot your decentralized application or protocol before going live on Ethereum mainnet
 - Metamask
+  * MetaMask is a popular cryptocurrency wallet and browser extension that allows users to manage their Ethereum-based assets, interact with decentralized applications (DApps), and securely store and transfer cryptocurrencies
 - Alchemy
+  * Alchemy is a blockchain infrastructure and developer platform that provides a range of tools and services to make it easier for developers to build and scale blockchain applications.
 
 - - - - - - - - - - - - - - - - - - - 
 
@@ -91,3 +97,8 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - Alchemy for blockchain data access.
 - Successful testing on testnets (Quicknode/Goerli).
 - Comprehensive project documentation.
+
+- - - - - - - - - - - - - - - - - - - 
+
+## Reference:
+[YouTube](https://youtu.be/Wn_Kb3MR_cU?si=UD5cM-vEB8rJmL8F)
