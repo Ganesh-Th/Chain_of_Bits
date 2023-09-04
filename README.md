@@ -103,7 +103,7 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - 
 
 ## Reference🧾:
--[Click here](https://www.ibm.com/blog/how-transparency-through-blockchain-helps-the-cybersecurity-community/)
+-[Click here](https://www.ibm.com/blog/how-transparency-through-blockchain-helps-the-cybersecurity-community/).
 -[Click here](https://builtin.com/blockchain/blockchain-applications)
 -[Click here](https://github.com/mradkov/p2p-lending)
 -[Click here](https://blog.railwaymen.org/using-blockchain-for-secure-and-transparent-payments)
