@@ -114,15 +114,20 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 
 - - - - - - - - - - - - - - - - - - - 
 
-## Reference🧾:
-
-- [ETHEREUM TRANSACTION USING METAMASK WALLET](https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2023/40495/final/fin_irjmets1685250727.pdf)
+## References🧾:
 
 - [Using blockchain for secure and transparent payments](https://blog.railwaymen.org/using-blockchain-for-secure-and-transparent-payments) ,[Ripple](https://ripple.com/),[Circle](https://www.circle.com/hubfs/investors/Circle-Investor-Presentation-July2021.pdf) ,[BitPesa](https://www.crunchbase.com/organization/bitpesa-76fc)
 
+- [Smart Contracts in Blockchain Technology](https://www.mdpi.com/2078-2489/14/2/117)
 
-- [Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+- [An overview on smart contracts: Challenges, advances and platforms](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19316280)
 
 - [How Blockchain Wallet Works | Blockchain Technology](https://www.youtube.com/watch?v=zTHtK1ctgp0&t=1032s)
 
+- [Designing Blockchain-based transaction processing systems](https://www.sciencedirect.com/science/article/abs/pii/S1467089518300794)
+  
+- [Etherum Transaction Using Metamask Wallet](https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2023/40495/final/fin_irjmets1685250727.pdf)
 
+- [Requirements for the development of smart contracts at the Solidity codelevel on the Ethereum platform](http://dspace.opu.ua/jspui/bitstream/123456789/13894/1/157-%d0%a2%d0%b5%d0%ba%d1%81%d1%82%20%d1%81%d1%82%d0%b0%d1%82%d1%82%d1%96-199-2-10-20230420.pdf)
+
+- [Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
