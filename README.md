@@ -28,22 +28,22 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - -
 
 ## Software/API Requirements💻:
-- VS Code
-  * Visual Studio Code (VS Code) is a popular, free, and open-source code editor
-- Vite
-  * Vite is a modern, lightweight, and fast development build tool and web application framework for JavaScript and TypeScript projects
-- Tailwindcss
-  * Tailwind CSS is a highly popular utility-first CSS framework that simplifies and streamlines the process of designing and styling web applications.
-- Solidity
-  * Solidity is a high-level, statically typed programming language primarily used for developing smart contracts on the Ethereum blockchain platform.
-- Hardhat
-  * Hardhat is a popular development environment and toolset for Ethereum smart contract development
-- Quicknode/Georli
-  * An Ethereum faucet is a developer tool to get testnet Ether (ETH) in order to test and troubleshoot your decentralized application or protocol before going live on Ethereum mainnet
-- Metamask
-  * MetaMask is a popular cryptocurrency wallet and browser extension that allows users to manage their Ethereum-based assets, interact with decentralized applications (DApps), and securely store and transfer cryptocurrencies
-- Alchemy
-  * Alchemy is a blockchain infrastructure and developer platform that provides a range of tools and services to make it easier for developers to build and scale blockchain applications.
+- VS Code [link](https://code.visualstudio.com/)
+  * Visual Studio Code (VS Code) is a popular, free, and open-source code editor. 
+- Vite [link](https://vitejs.dev/)
+  * Vite is a modern, lightweight, and fast development build tool and web application framework for JavaScript and TypeScript projects. 
+- Tailwindcss [link](https://tailwindcss.com/)
+  * Tailwind CSS is a highly popular utility-first CSS framework that simplifies and streamlines the process of designing and styling web applications. 
+- Solidity [link](https://soliditylang.org/)
+  * Solidity is a high-level, statically typed programming language primarily used for developing smart contracts on the Ethereum blockchain platform. 
+- Hardhat [link](https://hardhat.org/)
+  * Hardhat is a popular development environment and toolset for Ethereum smart contract development. 
+- Quicknode [link](https://www.quicknode.com/)/Georli [link](https://goerli.net/)
+  * An Ethereum faucet is a developer tool to get testnet Ether (ETH) in order to test and troubleshoot your decentralized application or protocol before going live on Ethereum mainnet.
+- Metamask [link](https://metamask.io/)
+  * MetaMask is a popular cryptocurrency wallet and browser extension that allows users to manage their Ethereum-based assets, interact with decentralized applications (DApps), and securely store and transfer cryptocurrencies. 
+- Alchemy [link](https://alchemy.com/)
+  * Alchemy is a blockchain infrastructure and developer platform that provides a range of tools and services to make it easier for developers to build and scale blockchain applications. 
 
 - - - - - - - - - - - - - - - - - - - 
 
