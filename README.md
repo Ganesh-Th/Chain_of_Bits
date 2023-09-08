@@ -13,11 +13,17 @@ Our smart contract will include a set of predefined rules for the transaction, s
 In summary, our Web 3.0 application will leverage blockchain technology to enable fast, secure, and transparent transactions without the need for intermediaries. By using Solidity, MetaMask, and React.js, we will create a frictionless user experience that empowers our users to take control of their assets.
 
 ### Use cases:
-* ***Crypto Wallet Integration***: Users can pair their Metamask wallet with the application, allowing them to securely manage their Ethereum assets and interact with the blockchain seamlessly.
-* ***Secure Transactions***: Users can initiate secure cryptocurrency transactions. They can send Ether or other tokens to other users or external addresses directly from the application, with Metamask handling transaction signing.
-* ***Blockchain Explorer***: The application can serve as a blockchain explorer, enabling users to track transaction history, check wallet balances, and monitor the status of their transactions on the Ethereum network.
-* ***Smart Contracts Interaction***:Users can interact with deployed smart contracts on the Ethereum network. They can execute functions defined in these smart contracts, such as voting, crowdfunding, or token transfers.
-* ***Decentralized Finance***:DeFi, a groundbreaking innovation on Ethereum, is revolutionizing finance with decentralized, programmable, and censorship-resistant features. It offers P2P lending, interest on crypto, DEX, stablecoins, and passive earning opportunities. Leading DeFi platforms like Compound, MakerDAO, and Aave saw over $4 billion locked in 2020. [MakerDAO](https://makerdao.com/en/),[Aave](https://aave.com/)
+
+* ***Decentralized Finance***: DeFi, a groundbreaking innovation on Ethereum, is revolutionizing finance with decentralized, programmable, and censorship-resistant features. It offers P2P lending, interest on crypto, DEX, stablecoins, and passive earning opportunities. Leading DeFi platforms like Compound, MakerDAO, and Aave saw over $4 billion locked in 2020. [MakerDAO](https://makerdao.com/en/),[Aave](https://aave.com/)
+
+* ***Crypto Wallet Integration***: Users can pair their Metamask wallet with the application, allowing them to securely manage their Ethereum assets and interact with the blockchain seamlessly. [Axie Infinity](https://axieinfinity.com/)
+
+* ***Secure Transactions***: Users can initiate secure cryptocurrency transactions. They can send Ether or other tokens to other users or external addresses directly from the application, with Metamask handling transaction signing. [Uniswap](https://uniswap.org/)
+
+* ***Blockchain Explorer***: The application can serve as a blockchain explorer, enabling users to track transaction history, check wallet balances, and monitor the status of their transactions on the Ethereum network. [Etherscan](https://etherscan.io/)
+
+* ***Smart Contracts Interaction***:Users can interact with deployed smart contracts on the Ethereum network. They can execute functions defined in these smart contracts, such as voting, crowdfunding, or token transfers.[Aave Protocol](https://aave.com/)
+
 
 - - - - - - - - - - - - - - - - - - - -
 
@@ -109,6 +115,9 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - 
 
 ## Reference🧾:
+
+- [ETHEREUM TRANSACTION USING METAMASK WALLET](https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2023/40495/final/fin_irjmets1685250727.pdf)
+
 - [How transparency through blockchain helps the cybersecurity community](https://www.ibm.com/blog/how-transparency-through-blockchain-helps-the-cybersecurity-community/)
  
 - [Blockchain applications](https://builtin.com/blockchain/blockchain-applications)
@@ -118,7 +127,5 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - [Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
 - [How Blockchain Wallet Works | Blockchain Technology](https://www.youtube.com/watch?v=zTHtK1ctgp0&t=1032s)
-
-- 
 
 
