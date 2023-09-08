@@ -118,7 +118,8 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 
 - [ETHEREUM TRANSACTION USING METAMASK WALLET](https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2023/40495/final/fin_irjmets1685250727.pdf)
 
-- [Using blockchain for secure and transparent payments](https://blog.railwaymen.org/using-blockchain-for-secure-and-transparent-payments)
+- [Using blockchain for secure and transparent payments](https://blog.railwaymen.org/using-blockchain-for-secure-and-transparent-payments) ,[Ripple](https://ripple.com/),[Circle](https://www.circle.com/hubfs/investors/Circle-Investor-Presentation-July2021.pdf) ,[BitPesa](https://www.crunchbase.com/organization/bitpesa-76fc)
+
 
 - [Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
