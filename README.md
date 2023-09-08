@@ -118,10 +118,6 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 
 - [ETHEREUM TRANSACTION USING METAMASK WALLET](https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2023/40495/final/fin_irjmets1685250727.pdf)
 
-- [How transparency through blockchain helps the cybersecurity community](https://www.ibm.com/blog/how-transparency-through-blockchain-helps-the-cybersecurity-community/)
- 
-- [Blockchain applications](https://builtin.com/blockchain/blockchain-applications)
-
 - [Using blockchain for secure and transparent payments](https://blog.railwaymen.org/using-blockchain-for-secure-and-transparent-payments)
 
 - [Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
