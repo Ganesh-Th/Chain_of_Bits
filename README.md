@@ -12,6 +12,12 @@ Our smart contract will include a set of predefined rules for the transaction, s
 
 In summary, our Web 3.0 application will leverage blockchain technology to enable fast, secure, and transparent transactions without the need for intermediaries. By using Solidity, MetaMask, and React.js, we will create a frictionless user experience that empowers our users to take control of their assets.
 
+### Use cases:
+* ***Crypto Wallet Integration***: Users can pair their Metamask wallet with the application, allowing them to securely manage their Ethereum assets and interact with the blockchain seamlessly.
+* ***Secure Transactions***: Users can initiate secure cryptocurrency transactions. They can send Ether or other tokens to other users or external addresses directly from the application, with Metamask handling transaction signing.
+* ***Blockchain Explorer***: The application can serve as a blockchain explorer, enabling users to track transaction history, check wallet balances, and monitor the status of their transactions on the Ethereum network.
+* ***Smart Contracts Interaction***:Users can interact with deployed smart contracts on the Ethereum network. They can execute functions defined in these smart contracts, such as voting, crowdfunding, or token transfers.
+
 - - - - - - - - - - - - - - - - - - - -
 
 ## Software/API Requirements💻:
