@@ -28,21 +28,21 @@ In summary, our Web 3.0 application will leverage blockchain technology to enabl
 - - - - - - - - - - - - - - - - - - - -
 
 ## Software/API Requirements💻:
-- **Visual Studio Code (VS Code):** [link](https://code.visualstudio.com/)
+- [**Visual Studio Code (VS Code):**](https://code.visualstudio.com/)
   * Visual Studio Code is a highly popular and versatile code editor known for its lightweight, open-source nature. It boasts a wide range of extensions and a vibrant developer community, making it a top choice for software development across various programming languages. VS Code provides features such as code highlighting, debugging, version control, and integrated terminal support, all of which enhance the development experience.
-- **Vite** [link](https://vitejs.dev/)
+- [**Vite**](https://vitejs.dev/)
   * Vite is a modern and rapid development build tool and web application framework designed specifically for JavaScript and TypeScript projects. What sets Vite apart is its speed – it leverages ES modules to offer near-instantaneous development server startup, leading to a highly efficient development workflow. Vite is well-suited for building web applications and single-page apps, making it a preferred choice for developers who prioritize performance. 
-- **Tailwindcss** [link](https://tailwindcss.com/)
+- [**Tailwindcss**](https://tailwindcss.com/)
   * Tailwind CSS is a highly popular utility-first CSS framework that simplifies and streamlines the process of designing and styling web applications. It provides a set of predefined utility classes that can be easily applied to HTML elements, making it easier to create customized and responsive designs. Tailwind CSS promotes a more declarative and component-based approach to web design, which is appreciated by developers for its flexibility and ease of use. 
-- **Solidity** [link](https://soliditylang.org/)
+- [**Solidity**](https://soliditylang.org/)
   *  Solidity is a high-level, statically typed programming language primarily used for developing smart contracts on the Ethereum blockchain platform. Smart contracts are self-executing contracts with the terms of the agreement directly written into code. Solidity facilitates the creation of these contracts by providing developers with a language specifically tailored for the Ethereum ecosystem, enabling the secure and reliable execution of blockchain-based applications.
-- **Hardhat** [link](https://hardhat.org/)
+- [**Hardhat**](https://hardhat.org/)
   *  Hardhat is a popular development environment and toolset for Ethereum smart contract development. It streamlines the process of creating, testing, and deploying smart contracts, making it a valuable resource for Ethereum developers. Hardhat offers features like built-in testing, debugging, and support for various Ethereum networks, enhancing the efficiency and reliability of the development process.
-- **Quicknode** [link](https://www.quicknode.com/)/**Georli** [link](https://goerli.net/)
+- [**Quicknode**](https://www.quicknode.com/)/[**Georli**](https://goerli.net/)
   * Quicknode and Georli refer to Ethereum faucets, which are developer tools that provide testnet Ether (ETH) to assist in testing and troubleshooting decentralized applications on the Ethereum network before deploying them to the mainnet. These services are essential for developers to experiment with and fine-tune their applications without incurring real-world costs. Quicknode and Georli offer a quick and convenient way to obtain testnet Ether for development purposes.
-- **Metamask** [link](https://metamask.io/)
+- [**Metamask**](https://metamask.io/)
   *  MetaMask is a widely used cryptocurrency wallet and browser extension primarily designed for the Ethereum ecosystem. It allows users to manage their Ethereum-based assets, interact with decentralized applications (DApps), and securely store and transfer cryptocurrencies. MetaMask simplifies the process of engaging with blockchain applications and the Ethereum network, making it a user-friendly gateway to the world of decentralized finance and applications.
-- **Alchemy** [link](https://alchemy.com/)
+- [**Alchemy**](https://alchemy.com/)
   * Alchemy is a comprehensive blockchain infrastructure and developer platform that offers a range of tools and services to simplify the development and scaling of blockchain applications. It provides developers with features like API access, analytics, debugging, and performance optimization, making it easier to build and maintain blockchain-based projects. Alchemy is known for its reliability and scalability, making it a valuable resource for those working on blockchain applications and services.
 
 - - - - - - - - - - - - - - - - - - - 
