@@ -1,4 +1,4 @@
-# Blockchain-Powered Web 3.0 Application: Seamless Transactions and Decentralized Empowerment
+# Cryptocurrency Transaction Hub: Trustless and Transparent
 
 ## Identification of topic💡:
 
