@@ -1,4 +1,4 @@
-# Cryptocurrency Transaction Hub: Trustless and Transparent
+# Cryptocurrency Transaction Hub: Trustful and Transparent
 
 ## Identification of topic💡:
 
