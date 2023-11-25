@@ -1,11 +1,14 @@
+// Importing React library for creating React components
 import React from "react";
+
+// Importing icons for the service cards from react-icons library
 import { BsShieldFillCheck } from "react-icons/bs";
 import { BiSearchAlt } from "react-icons/bi";
 import { RiHeart2Fill } from "react-icons/ri";
 
-// ... (previous imports remain unchanged)
-
+// Functional component for individual service cards
 const ServiceCard = ({ color, title, icon, subtitle }) => (
+  // Container for a service card with styling and hover effect
   <div className="flex flex-row justify-start items-start white-glassmorphism p-3 m-2 cursor-pointer hover:shadow-xl">
     <div className={`w-12 h-12 rounded-full flex justify-center items-center ${color}`}>
       {icon}
@@ -19,7 +22,9 @@ const ServiceCard = ({ color, title, icon, subtitle }) => (
   </div>
 );
 
+// Functional component for the Services section
 const Services = () => (
+  // Container for the Services section with styling and gradient background
   <div className="flex w-full justify-center items-center gradient-bg-services">
     <div className="flex mf:flex-row flex-col items-center justify-between md:p-20 py-12 px-4">
       <div className="flex-1 flex flex-col justify-start items-start">
@@ -55,4 +60,5 @@ const Services = () => (
   </div>
 );
 
+// Exporting the Services component for use in other parts of the application
 export default Services;

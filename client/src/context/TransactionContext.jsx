@@ -1,31 +1,44 @@
+// Importing React, useEffect, useState, and ethers from the necessary libraries
 import React, { useEffect, useState } from "react";
 import { ethers } from "ethers";
 
+// Importing contract ABI and address constants from the utils directory
 import { contractABI, contractAddress } from "../utils/constants";
 
+// Creating a React context for transaction-related data
 export const TransactionContext = React.createContext();
 
+// Destructuring ethereum object from the window global object
 const { ethereum } = window;
 
+
+// Function to create an Ethereum contract instance using ethers.js
 const createEthereumContract = () => {
+  // Creating a Web3 provider and signer using the ethereum object
   const provider = new ethers.providers.Web3Provider(ethereum);
   const signer = provider.getSigner();
+
+   // Creating an instance of the transactions contract using the ABI and signer
   const transactionsContract = new ethers.Contract(contractAddress, contractABI, signer);
 
   return transactionsContract;
 };
 
+// Functional component for providing transaction-related data to its children
 export const TransactionsProvider = ({ children }) => {
+  // State variables for form data, current account, loading status, transaction count, and transactions
   const [formData, setformData] = useState({ addressTo: "", amount: "", keyword: "", message: "" });
   const [currentAccount, setCurrentAccount] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [transactionCount, setTransactionCount] = useState(localStorage.getItem("transactionCount"));
   const [transactions, setTransactions] = useState([]);
 
+  // Handler function for updating form data
   const handleChange = (e, name) => {
     setformData((prevState) => ({ ...prevState, [name]: e.target.value }));
   };
 
+  // Function to fetch all transactions from the blockchain
   const getAllTransactions = async () => {
     try {
       if (ethereum) {
@@ -53,6 +66,7 @@ export const TransactionsProvider = ({ children }) => {
     }
   };
 
+  // Function to check if a wallet is connected and update the current account
   const checkIfWalletIsConnect = async () => {
     try {
       if (!ethereum) return alert("Please install MetaMask.");
@@ -71,6 +85,7 @@ export const TransactionsProvider = ({ children }) => {
     }
   };
 
+  // Function to check if transactions already exist and update the local storage
   const checkIfTransactionsExists = async () => {
     try {
       if (ethereum) {
@@ -86,6 +101,7 @@ export const TransactionsProvider = ({ children }) => {
     }
   };
 
+  // Function to connect the wallet
   const connectWallet = async () => {
     try {
       if (!ethereum) return alert("Please install MetaMask.");
@@ -101,6 +117,7 @@ export const TransactionsProvider = ({ children }) => {
     }
   };
 
+  // Function to send a transaction
   const sendTransaction = async () => {
     try {
       if (ethereum) {
@@ -140,6 +157,7 @@ export const TransactionsProvider = ({ children }) => {
     }
   };
 
+   // useEffect hook to check for wallet connection and existing transactions
   useEffect(() => {
     checkIfWalletIsConnect();
     checkIfTransactionsExists();

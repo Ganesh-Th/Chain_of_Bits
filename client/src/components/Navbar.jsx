@@ -1,17 +1,25 @@
+// Importing React library for creating React components
 import React from "react";
+
+// Importing icons for menu and close from react-icons library
 import { HiMenuAlt4 } from "react-icons/hi";
 import { AiOutlineClose } from "react-icons/ai";
 
+// Importing the logo image
 import logo from "../../images/logo.png";
 
+// Functional component for individual items in the navigation bar
 const NavBarItem = ({ title, classprops }) => (
   <li className={`mx-4 cursor-pointer ${classprops}`}>{title}</li>
 );
 
+// Functional component for the Navbar
 const Navbar = () => {
+  // State to manage the toggle state of the mobile menu
   const [toggleMenu, setToggleMenu] = React.useState(false);
 
   return (
+    // Container for the Navbar with flex layout and styling
     <nav className="w-full flex md:justify-center justify-between items-center p-4">
       <div className="md:flex-[0.5] flex-initial justify-center items-center">
         <img src={logo} alt="logo" className="w-32 cursor-pointer" />
@@ -44,4 +52,5 @@ const Navbar = () => {
   );
 };
 
+// Exporting the Navbar component for use in other parts of the application
 export default Navbar;

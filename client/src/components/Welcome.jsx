@@ -1,16 +1,23 @@
+// Importing React library for creating React components and useContext hook for accessing context
 import React, { useContext } from "react";
+
+// Importing icons for the Welcome section from react-icons library
 import { AiFillPlayCircle } from "react-icons/ai";
 import { SiEthereum } from "react-icons/si";
 import { BsInfoCircle } from "react-icons/bs";
 
+// Importing TransactionContext for accessing transaction data
 import { TransactionContext } from "../context/TransactionContext";
+
+// Importing utility function for shortening Ethereum addresses and Loader component
+import { shortenAddress } from "../utils/shortenAddress";
 import { shortenAddress } from "../utils/shortenAddress";
 import { Loader } from ".";
 
+// Common styles for company-related information
 const companyCommonStyles = "min-h-[70px] sm:px-0 px-2 sm:min-w-[120px] flex justify-center items-center border-[0.5px] border-gray-400 text-sm font-light text-[#9CA3AF]";
 
-// ... (previous imports remain unchanged)
-
+// Functional component for input fields
 const Input = ({ placeholder, name, type, value, handleChange }) => (
   <input
     placeholder={placeholder}
@@ -22,20 +29,23 @@ const Input = ({ placeholder, name, type, value, handleChange }) => (
   />
 );
 
+// Functional component for the Welcome section
 const Welcome = () => {
+  // Destructuring variables and functions from the TransactionContext
   const { currentAccount, connectWallet, handleChange, sendTransaction, formData, isLoading } = useContext(TransactionContext);
-
+  // Handling the form submission
   const handleSubmit = (e) => {
     const { addressTo, amount, keyword, message } = formData;
 
     e.preventDefault();
-
+    // Checking if essential form fields are filled before sending the transaction
     if (!addressTo || !amount || !keyword || !message) return;
 
     sendTransaction();
   };
 
   return (
+    // Container for the Welcome section with styling and flex layout
     <div className="flex w-full justify-center items-center">
       <div className="flex mf:flex-row flex-col items-start justify-between md:p-20 py-12 px-4">
         <div className="flex flex-1 justify-start items-start flex-col mf:mr-10">
@@ -121,4 +131,5 @@ const Welcome = () => {
   );
 };
 
+// Exporting the Welcome component for use in other parts of the application
 export default Welcome;

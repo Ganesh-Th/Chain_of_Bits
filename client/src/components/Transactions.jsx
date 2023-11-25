@@ -1,15 +1,23 @@
+// Importing React library for creating React components and useContext hook for accessing context
 import React, { useContext } from "react";
 
+// Importing TransactionContext for accessing transaction data
 import { TransactionContext } from "../context/TransactionContext";
 
+// Importing custom hook for fetching GIFs based on a keyword
 import useFetch from "../hooks/useFetch";
+
+// Importing dummyData and utility function for shortening Ethereum addresses
 import dummyData from "../utils/dummyData";
 import { shortenAddress } from "../utils/shortenAddress";
 
+// Functional component for individual transaction cards
 const TransactionsCard = ({ addressTo, addressFrom, timestamp, message, keyword, amount, url }) => {
+  // Using the useFetch hook to fetch a GIF based on a keyword
   const gifUrl = useFetch({ keyword });
 
   return (
+    // Container for a transaction card with styling and hover effect
     <div className="bg-[#1F2937] m-4 flex flex-1
       2xl:min-w-[450px]
       2xl:max-w-[500px]
@@ -47,10 +55,13 @@ const TransactionsCard = ({ addressTo, addressFrom, timestamp, message, keyword,
   );
 };
 
+// Functional component for the Transactions section
 const Transactions = () => {
+  // Destructuring transactions and currentAccount from the TransactionContext
   const { transactions, currentAccount } = useContext(TransactionContext);
 
   return (
+     // Container for the Transactions section with styling and gradient background
     <div className="flex w-full justify-center items-center 2xl:px-20 gradient-bg-transactions">
       <div className="flex flex-col md:p-12 py-12 px-4">
         {currentAccount ? (
@@ -73,4 +84,5 @@ const Transactions = () => {
   );
 };
 
+// Exporting the Transactions component for use in other parts of the application
 export default Transactions;
