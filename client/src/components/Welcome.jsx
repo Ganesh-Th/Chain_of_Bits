@@ -11,7 +11,6 @@ import { TransactionContext } from "../context/TransactionContext";
 
 // Importing utility function for shortening Ethereum addresses and Loader component
 import { shortenAddress } from "../utils/shortenAddress";
-import { shortenAddress } from "../utils/shortenAddress";
 import { Loader } from ".";
 
 // Common styles for company-related information
