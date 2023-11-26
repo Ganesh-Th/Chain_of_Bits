@@ -1,6 +1,6 @@
 # Cryptocurrency Transaction Hub: Trustless and Transparent
 
-Demo Presentation : [Chain of Bits](https://drive.google.com/file/d/1lr9DVqywIhdX8RVGcBeeZj_U9tB58oZv/view?usp=sharing)
+## Demo Presentation : [Chain of Bits](https://drive.google.com/file/d/1lr9DVqywIhdX8RVGcBeeZj_U9tB58oZv/view?usp=sharing)
 
 ## Identification of Topic 💡
 
@@ -14,7 +14,7 @@ Our smart contract design encompasses a meticulously defined set of transaction 
 
 In essence, our Web 3.0 application is an embodiment of the transformative potential of blockchain technology, offering rapid, secure, and transparent transaction experiences that liberate users from the constraints of traditional intermediaries. Through the judicious combination of Solidity, MetaMask, and React.js, we intend to deliver a seamless user interface that empowers individuals to exercise full control over their digital assets.
 
-### Use Cases
+### Use Cases 🎓
 
 - **Decentralized Finance (DeFi):** DeFi, a groundbreaking innovation on Ethereum, is revolutionizing finance with decentralized, programmable, and censorship-resistant features. It offers P2P lending, interest on crypto, DEX, stablecoins, and passive earning opportunities. Leading DeFi platforms like [Compound](https://compound.finance/), [MakerDAO](https://makerdao.com/en/), and [Aave](https://aave.com/) saw over $4 billion locked in 2020.
 
@@ -70,7 +70,7 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 ---
 
-## Literature Survey
+## Literature Survey 📰
 
 **[1] Goel, A. K., Bakshi, R., & Agrawal, K. K. (2022). Web 3.0 and decentralized applications. Materials Proceedings, 10(1), 8.**
 
@@ -185,7 +185,7 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 ---
 
-## Project Implementation Workflow
+## Project Implementation Workflow 🔄🚀🛠️
 
 <img title="" src="asserts/webflow.png" alt="Untitled (1)" width="3382">
 
@@ -269,27 +269,29 @@ contract Transactions {
 
 ---
 
-## Results
+## Results 📊
 
 - **Web Application Running and Final UI:** The operational status of the web application indicates that users can actively engage with its functionalities. The final user interface, developed using React.js, prioritizes responsiveness and user-friendliness to enhance the overall user experience.
 
-<img title="" src="asserts/Capture.png" alt="Untitled (1)" width="3382">
+![Capture](https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/36dadb85-f388-4fe7-95cf-cc0cca69eb9a)
 
 - **Connecting to Various MetaMask Accounts:** Users have the capability to establish connections between their Ethereum accounts and the application, facilitated by MetaMask integration. This integration not only enhances user security but also streamlines the process of interacting with the Ethereum network.
 
 - **Checking Test Ethereum Balance:** Within the application, users can conveniently check their Ethereum balance, particularly useful for testing scenarios and ensuring that they possess adequate funds for transactions.
 
-<img title="" src="asserts/Capture1.png" alt="Untitled (1)" width="3382">
+![WhatsApp Image 2023-11-26 at 22 00 02](https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/ecfdf8e4-10bd-42b7-8592-1cc2f96d6482)
 
 - **Proceeding with Transactions:** Users can seamlessly initiate transactions directly from the application, interacting with smart contracts on the Ethereum blockchain. The integration with MetaMask ensures a secure transaction process, contributing to a trustworthy user experience.
 
 - **Viewing Latest Transactions:** The application offers a dedicated section for users to review their latest transactions, promoting transparency and allowing users to track the details of their activity on the platform.
 
-<img title="" src="asserts/WhatsApp Image 2023-11-26 at 22.00.02.png" alt="Untitled (1)" width="3382">
+![Capture1](https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/6097d822-8e5a-4e54-b212-96ec8113dc07)
 
 - **Deployment Using Vercel:** We have deployed our application on Vercel, a cloud platform. This deployment ensures accessibility to users on the web, leveraging Vercel's cloud infrastructure for scalability and reliability, thereby contributing to a smooth and consistent user experience.
 
-#### Visit our Website:  [Chain of Bits](https://chain-of-bits.vercel.app/)
+In conclusion, our project represents a tangible embodiment of the transformative potential inherent in Web 3.0 technologies. By integrating blockchain, React.js, MetaMask, and Solidity, we have developed a decentralized application that not only facilitates secure and transparent transactions but also empowers users to have full control over their digital assets. The finalized user interface, seamlessly connecting to various MetaMask accounts, and the deployment on Vercel underscore our commitment to user accessibility and a robust, reliable experience. This project serves as a testament to the possibilities of decentralized applications in liberating users from traditional constraints, offering a glimpse into the future of digital transactions and asset management.
+
+## Visit our Website:  [Chain of Bits](https://chain-of-bits.vercel.app/)
 
 
 ---
@@ -323,7 +325,7 @@ This innovative addition not only enhances user engagement but also adds a uniqu
 
 - [An overview of smart contracts: Challenges, advances, and platforms](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19316280)
 
-- [Orchestrating Digital Wallets](https://ieeexplore.ieee.org/abstract/document/10194951)
+- [Orchestrating Digital Wallets for Decenralized Identity Management](https://ieeexplore.ieee.org/abstract/document/10194951)
 
 - [How Blockchain Wallet Works | Blockchain Technology](https://www.youtube.com/watch?v=zTHtK1ctgp0&t=1032s)
 
