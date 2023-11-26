@@ -66,7 +66,7 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 ## Workflow 🔁
 
-<img title="" src="asserts/projflow.png" alt="Untitled (1)" width="3382">
+<img title="" src="asserts/projflow.png" alt="loading-ag-513" width="3382">
 
 ---
 
@@ -187,7 +187,7 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 ## Project Implementation Workflow 🔄🚀🛠️
 
-<img title="" src="asserts/webflow.png" alt="Untitled (1)" width="3382">
+<img title="" src="asserts/webflow.png" alt="loading-ag-515" width="3382">
 
 ---
 
