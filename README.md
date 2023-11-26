@@ -273,26 +273,25 @@ contract Transactions {
 
 - **Web Application Running and Final UI:** The operational status of the web application indicates that users can actively engage with its functionalities. The final user interface, developed using React.js, prioritizes responsiveness and user-friendliness to enhance the overall user experience.
 
-![Capture](https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/36dadb85-f388-4fe7-95cf-cc0cca69eb9a)
+![Capture](asserts/Capture.png)
 
 - **Connecting to Various MetaMask Accounts:** Users have the capability to establish connections between their Ethereum accounts and the application, facilitated by MetaMask integration. This integration not only enhances user security but also streamlines the process of interacting with the Ethereum network.
 
 - **Checking Test Ethereum Balance:** Within the application, users can conveniently check their Ethereum balance, particularly useful for testing scenarios and ensuring that they possess adequate funds for transactions.
 
-![WhatsApp Image 2023-11-26 at 22 00 02](https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/ecfdf8e4-10bd-42b7-8592-1cc2f96d6482)
+![WhatsApp Image 2023-11-26 at 22 00 02](asserts/meta.jpeg)
 
 - **Proceeding with Transactions:** Users can seamlessly initiate transactions directly from the application, interacting with smart contracts on the Ethereum blockchain. The integration with MetaMask ensures a secure transaction process, contributing to a trustworthy user experience.
 
 - **Viewing Latest Transactions:** The application offers a dedicated section for users to review their latest transactions, promoting transparency and allowing users to track the details of their activity on the platform.
 
-![Capture1](https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/6097d822-8e5a-4e54-b212-96ec8113dc07)
+![Capture1](asserts/Capture1.png)
 
 - **Deployment Using Vercel:** We have deployed our application on Vercel, a cloud platform. This deployment ensures accessibility to users on the web, leveraging Vercel's cloud infrastructure for scalability and reliability, thereby contributing to a smooth and consistent user experience.
 
 In conclusion, our project represents a tangible embodiment of the transformative potential inherent in Web 3.0 technologies. By integrating blockchain, React.js, MetaMask, and Solidity, we have developed a decentralized application that not only facilitates secure and transparent transactions but also empowers users to have full control over their digital assets. The finalized user interface, seamlessly connecting to various MetaMask accounts, and the deployment on Vercel underscore our commitment to user accessibility and a robust, reliable experience. This project serves as a testament to the possibilities of decentralized applications in liberating users from traditional constraints, offering a glimpse into the future of digital transactions and asset management.
 
 ## Visit our Website:  [Chain of Bits](https://chain-of-bits.vercel.app/)
-
 
 ---
 
@@ -311,7 +310,6 @@ Here's how it works:
 4. **Incremental Deployment Model:** We plan to deploy our application in an incremental model, releasing updates with new features regularly. This approach allows us to continuously enhance the user experience and introduce innovative functionalities over time.
 
 This innovative addition not only enhances user engagement but also adds a unique dimension to the value proposition of our platform. By intertwining the worlds of Bitcoin and Ethereum, we aim to provide users with a comprehensive and rewarding experience, aligning with the ever-evolving landscape of blockchain technology.
-
 
 ------------------------------
 
@@ -336,3 +334,5 @@ This innovative addition not only enhances user engagement but also adds a uniqu
 - [Requirements for the development of smart contracts at the Solidity code level on the Ethereum platform](http://dspace.opu.ua/jspui/bitstream/123456789/13894/1/157-%d0%a2%d0%b5%d0%ba%d1%81%d1%82%20%d1%81%d1%82%d0%b0%d1%82%d1%82%d1%96-199-2-10-20230420.pdf)
 
 - [Analysis of cryptocurrency transactions from a network perspective: An overview](https://www.sciencedirect.com/science/article/abs/pii/S1084804521001557)
+
+
