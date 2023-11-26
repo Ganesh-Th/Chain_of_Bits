@@ -1,7 +1,8 @@
 # Cryptocurrency Transaction Hub: Trustless and Transparent
 
 Visit our Website:  [Chain of Bits](https://chain-of-bits.vercel.app/)
-Demo Presentation : [Chain of Bits}(https://drive.google.com/file/d/1lr9DVqywIhdX8RVGcBeeZj_U9tB58oZv/view?usp=sharing)
+
+Demo Presentation : [Chain of Bits](https://drive.google.com/file/d/1lr9DVqywIhdX8RVGcBeeZj_U9tB58oZv/view?usp=sharing)
 
 ## Identification of Topic 💡
 
