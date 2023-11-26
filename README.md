@@ -268,7 +268,7 @@ This innovative addition not only enhances user engagement but also adds a uniqu
 
 - [An overview of smart contracts: Challenges, advances, and platforms](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19316280)
 
-- [Orchestrating Digital Wallets] (https://ieeexplore.ieee.org/abstract/document/10194951)
+- [Orchestrating Digital Wallets](https://ieeexplore.ieee.org/abstract/document/10194951)
 
 - [How Blockchain Wallet Works | Blockchain Technology](https://www.youtube.com/watch?v=zTHtK1ctgp0&t=1032s)
 
