@@ -296,8 +296,3 @@ This innovative addition not only enhances user engagement but also adds a uniqu
 - [Designing Blockchain-based transaction processing systems](https://www.sciencedirect.com/science/article/abs/pii/S1467089518300794)
 
 - [Requirements for the development of smart contracts at the Solidity code level on the Ethereum platform](http://dspace.opu.ua/jspui/bitstream/123456789/13894/1/157-%d0%a2%d0%b5%d0%ba%d1%81%d1%82%20%d1%81%d1%82%d0%b0%d1%82%d1%82%d1%96-199-2-10-20230420.pdf)
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 02b0b7ea753979e12a818a9b12dd89ddddc37e57
