@@ -93,6 +93,12 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 > This literature review has significantly contributed to our project by shedding light on the essential considerations in smart contract development. Understanding the entire lifecycle of smart contracts, including creation, deployment, execution, and destruction, has provided valuable insights into potential security issues at each phase. The identification and categorization of vulnerabilities at the Solidity code level on the Ethereum platform have equipped our project team with knowledge to enhance the security of our smart contracts. The emphasis on the iterative nature of smart contract creation, involving negotiations with stakeholders and multiple rounds of development, aligns with our project's commitment to delivering robust and adaptable solutions. Additionally, the exploration of measures to increase trust in the blockchain by enhancing smart contract reliability resonates with our goal of providing a secure and transparent transaction experience for users. The awareness of different types of vulnerabilities in Solidity code serves as a guide for implementing best practices and safeguards in our project, ultimately contributing to the overall success and trustworthiness of our Web 3.0 application.
 
+**[6] Kersic, V., Vidovic, U., Vrecko, A., Domajnko, M., & Turkanovic, M. (2023). Orchestrating Digital Wallets for On-and Off-chain Decentralized Identity Management. IEEE Access..**
+
+> The emergence of decentralized digital identity is a crucial development in the context of the digitalization age, where increasing digital interactions necessitate robust identity management solutions. This paper addresses the challenges posed by disparate identity management approaches, particularly in the realms of on-chain and off-chain decentralized digital identities. It highlights the use of asymmetric cryptographic keys and the absence of centralized oversight, emphasizing self-sovereignty and privacy. The proposal of an orchestration solution to converge on- and off-chain wallet types into a universal wallet is a notable contribution, showcasing a forward-thinking approach to streamline decentralized identity management. The paper delves into the significance of decentralized identity in Web3, where cryptographic keys play a pivotal role in authentication mechanisms, aligning with the principles of self-custodial management. The categorization of popular wallets like MetaMask as non-custodial or self-custodial further underscores the emphasis on user control over cryptographic keys in digital identity wallets.
+
+> In the context of our project, this literature review informs and validates our decision to integrate decentralized identity management using blockchain technology. The paper's insights into on-chain and off-chain identity aspects, along with the proposed orchestration solution, provide valuable guidance. The emphasis on privacy in off-chain identities aligns with our project's commitment to empowering users with control over their digital assets while ensuring a high level of privacy. Additionally, the recognition of MetaMask as a prominent Web3 wallet resonates with our choice of leveraging MetaMask for establishing the essential linkage between our React.js application and the Ethereum network, enhancing the overall user experience. The paper's contribution to the understanding of decentralized identity principles significantly contributes to the conceptual foundation of our project, emphasizing security, privacy, and user empowerment.
+
 
 ## Project Breakdown 📒
 
@@ -262,10 +268,12 @@ This innovative addition not only enhances user engagement but also adds a uniqu
 
 - [An overview of smart contracts: Challenges, advances, and platforms](https://www.sciencedirect.com/science/article/abs/pii/S0167739X19316280)
 
+- [Orchestrating Digital Wallets] (https://ieeexplore.ieee.org/abstract/document/10194951)
+
 - [How Blockchain Wallet Works | Blockchain Technology](https://www.youtube.com/watch?v=zTHtK1ctgp0&t=1032s)
 
-- [Designing Blockchain-based transaction processing systems](https://www.sciencedirect.com/science/article/abs/pii/S1467089518300794)
-
 - [Using the MetaMask Crypto-Wallet](https://link.springer.com/chapter/10.1007/978-1-4842-9271-6_5)
+
+- [Designing Blockchain-based transaction processing systems](https://www.sciencedirect.com/science/article/abs/pii/S1467089518300794)
 
 - [Requirements for the development of smart contracts at the Solidity code level on the Ethereum platform](http://dspace.opu.ua/jspui/bitstream/123456789/13894/1/157-%d0%a2%d0%b5%d0%ba%d1%81%d1%82%20%d1%81%d1%82%d0%b0%d1%82%d1%82%d1%96-199-2-10-20230420.pdf)
