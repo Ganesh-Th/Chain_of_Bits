@@ -57,7 +57,8 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 ## Workflow 🔁
 
-![WhatsApp Image 2023-09-03 at 9 35 12 PM](https://github.com/Ganesh-Th/Chain_of_Bits/assets/136326209/336e966f-336c-433c-8c8d-c8dc0b9f18b2)
+<img width="3382" alt="Untitled (1)" src="https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/cd597d3e-854e-4f97-a27e-e9f0c6be2aca">
+
 
 ---
 
