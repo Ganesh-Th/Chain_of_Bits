@@ -66,7 +66,7 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 ## Workflow 🔁
 
-<img width="3382" alt="Untitled (1)" src="https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/cd597d3e-854e-4f97-a27e-e9f0c6be2aca">
+<img title="" src="asserts/projflow.png" alt="Untitled (1)" width="3382">
 
 ---
 
@@ -175,7 +175,7 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 ## Project Implementation
 
-<img width="3382" alt="Untitled (1)" src="https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/cd597d3e-854e-4f97-a27e-e9f0c6be2aca">
+<img title="" src="asserts/webflow.png" alt="Untitled (1)" width="3382">
 
 ---
 
@@ -294,3 +294,5 @@ This innovative addition not only enhances user engagement but also adds a uniqu
 - [Designing Blockchain-based transaction processing systems](https://www.sciencedirect.com/science/article/abs/pii/S1467089518300794)
 
 - [Requirements for the development of smart contracts at the Solidity code level on the Ethereum platform](http://dspace.opu.ua/jspui/bitstream/123456789/13894/1/157-%d0%a2%d0%b5%d0%ba%d1%81%d1%82%20%d1%81%d1%82%d0%b0%d1%82%d1%82%d1%96-199-2-10-20230420.pdf)
+
+
