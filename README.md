@@ -1,7 +1,5 @@
 # Cryptocurrency Transaction Hub: Trustless and Transparent
 
-Visit our Website:  [Chain of Bits](https://chain-of-bits.vercel.app/)
-
 Demo Presentation : [Chain of Bits](https://drive.google.com/file/d/1lr9DVqywIhdX8RVGcBeeZj_U9tB58oZv/view?usp=sharing)
 
 ## Identification of Topic 💡
@@ -187,7 +185,7 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 ---
 
-## Project Implementation
+## Project Implementation Workflow
 
 <img title="" src="asserts/webflow.png" alt="Untitled (1)" width="3382">
 
@@ -271,6 +269,31 @@ contract Transactions {
 
 ---
 
+## Results
+
+- **Web Application Running and Final UI:** The operational status of the web application indicates that users can actively engage with its functionalities. The final user interface, developed using React.js, prioritizes responsiveness and user-friendliness to enhance the overall user experience.
+
+<img title="" src="asserts/Capture.png" alt="Untitled (1)" width="3382">
+
+- **Connecting to Various MetaMask Accounts:** Users have the capability to establish connections between their Ethereum accounts and the application, facilitated by MetaMask integration. This integration not only enhances user security but also streamlines the process of interacting with the Ethereum network.
+
+- **Checking Test Ethereum Balance:** Within the application, users can conveniently check their Ethereum balance, particularly useful for testing scenarios and ensuring that they possess adequate funds for transactions.
+
+<img title="" src="asserts/Capture1.png" alt="Untitled (1)" width="3382">
+
+- **Proceeding with Transactions:** Users can seamlessly initiate transactions directly from the application, interacting with smart contracts on the Ethereum blockchain. The integration with MetaMask ensures a secure transaction process, contributing to a trustworthy user experience.
+
+- **Viewing Latest Transactions:** The application offers a dedicated section for users to review their latest transactions, promoting transparency and allowing users to track the details of their activity on the platform.
+
+<img title="" src="asserts/WhatsApp Image 2023-11-26 at 22.00.02.png" alt="Untitled (1)" width="3382">
+
+- **Deployment Using Vercel:** We have deployed our application on Vercel, a cloud platform. This deployment ensures accessibility to users on the web, leveraging Vercel's cloud infrastructure for scalability and reliability, thereby contributing to a smooth and consistent user experience.
+
+#### Visit our Website:  [Chain of Bits](https://chain-of-bits.vercel.app/)
+
+
+---
+
 ## Future Scope 🚀:
 
 We aspire to extend our project's capabilities by introducing a groundbreaking feature where users are rewarded with Bitcoin based on their transactional activities. Every transaction conducted on our platform will contribute to a user's Bitcoin reward pool, creating an incentivized system that values user engagement.
@@ -287,15 +310,6 @@ Here's how it works:
 
 This innovative addition not only enhances user engagement but also adds a unique dimension to the value proposition of our platform. By intertwining the worlds of Bitcoin and Ethereum, we aim to provide users with a comprehensive and rewarding experience, aligning with the ever-evolving landscape of blockchain technology.
 
-- - - - - - - - - - - - - - - - - - -
-## Result and Discuss
-It's evident that your project is well-thought-out and comprehensive, covering various aspects of decentralized application development and blockchain integration. The combination of React.js for the frontend, Solidity for smart contract development, and MetaMask for wallet integration demonstrates a strong technical foundation. The incorporation of popular tools like Visual Studio Code, Vite, and Tailwind CSS further adds to the robustness of your development stack.
-
-The literature survey provides a solid theoretical framework, drawing on key concepts from Web 3.0, smart contracts, blockchain adoption challenges, and decentralized identity management. The references indicate a thorough exploration of relevant topics, contributing to a well-informed project approach.
-
-The workflow and project breakdown are clearly defined, showcasing a structured development plan. Each team member's responsibilities are well-distributed, and the timeline appears realistic for the outlined tasks. The inclusion of a code explanation section enhances transparency, allowing stakeholders to understand the smart contract's functionality.
-
-The future scope introduces an intriguing incentive model, tying Bitcoin rewards to transactional activities. This not only aligns with user engagement strategies but also reflects a forward-thinking approach to integrating different blockchain ecosystems.
 
 ------------------------------
 
