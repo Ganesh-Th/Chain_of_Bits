@@ -1,4 +1,5 @@
 # Cryptocurrency Transaction Hub: Trustless and Transparent
+
 Visit our Webiste :  [Chain of Bits](https://chain-of-bits.vercel.app/)
 
 ## Identification of Topic 💡
@@ -30,27 +31,35 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 ## Software/API Requirements 💻
 
 - [**Visual Studio Code (VS Code):**](https://code.visualstudio.com/)
+  
   * Visual Studio Code is a highly popular and versatile code editor known for its lightweight, open-source nature. It boasts a wide range of extensions and a vibrant developer community, making it a top choice for software development across various programming languages. VS Code provides features such as code highlighting, debugging, version control, and integrated terminal support, all of which enhance the development experience.
 
 - [**Vite:**](https://vitejs.dev/) 
+  
   * Vite is a modern and rapid development build tool and web application framework designed specifically for JavaScript and TypeScript projects. What sets Vite apart is its speed – it leverages ES modules to offer near-instantaneous development server startup, leading to a highly efficient development workflow. Vite is well-suited for building web applications and single-page apps, making it a preferred choice for developers who prioritize performance.
 
 - [**Tailwindcss:**](https://tailwindcss.com/) 
+  
   * Tailwind CSS is a highly popular utility-first CSS framework that simplifies and streamlines the process of designing and styling web applications. It provides a set of predefined utility classes that can be easily applied to HTML elements, making it easier to create customized and responsive designs. Tailwind CSS promotes a more declarative and component-based approach to web design, which is appreciated by developers for its flexibility and ease of use.
 
 - [**Solidity:**](https://soliditylang.org/) 
+  
   * Solidity is a high-level, statically typed programming language primarily used for developing smart contracts on the Ethereum blockchain platform. Smart contracts are self-executing contracts with the terms of the agreement directly written into code. Solidity facilitates the creation of these contracts by providing developers with a language specifically tailored for the Ethereum ecosystem, enabling the secure and reliable execution of blockchain-based applications.
 
 - [**Hardhat:**](https://hardhat.org/) 
-   * Hardhat is a popular development environment and toolset for Ethereum smart contract development. It streamlines the process of creating, testing, and deploying smart contracts, making it a valuable resource for Ethereum developers. Hardhat offers features like built-in testing, debugging, and support for various Ethereum networks, enhancing the efficiency and reliability of the development process.
+  
+  * Hardhat is a popular development environment and toolset for Ethereum smart contract development. It streamlines the process of creating, testing, and deploying smart contracts, making it a valuable resource for Ethereum developers. Hardhat offers features like built-in testing, debugging, and support for various Ethereum networks, enhancing the efficiency and reliability of the development process.
 
 - [**Quicknode:**](https://www.quicknode.com/) / [**Georli**](https://goerli.net/) 
-   * Quicknode and Georli refer to Ethereum faucets, which are developer tools that provide testnet Ether (ETH) to assist in testing and troubleshooting decentralized applications on the Ethereum network before deploying them to the mainnet. These services are essential for developers to experiment with and fine-tune their applications without incurring real-world costs. Quicknode and Georli offer a quick and convenient way to obtain testnet Ether for development purposes.
+  
+  * Quicknode and Georli refer to Ethereum faucets, which are developer tools that provide testnet Ether (ETH) to assist in testing and troubleshooting decentralized applications on the Ethereum network before deploying them to the mainnet. These services are essential for developers to experiment with and fine-tune their applications without incurring real-world costs. Quicknode and Georli offer a quick and convenient way to obtain testnet Ether for development purposes.
 
 - [**Metamask:**](https://metamask.io/) 
+  
   * MetaMask is a widely used cryptocurrency wallet and browser extension primarily designed for the Ethereum ecosystem. It allows users to manage their Ethereum-based assets, interact with decentralized applications (DApps), and securely store and transfer cryptocurrencies. MetaMask simplifies the process of engaging with blockchain applications and the Ethereum network, making it a user-friendly gateway to the world of decentralized finance and applications.
 
 - [**Alchemy:**](https://alchemy.com/) 
+  
   * Alchemy is a comprehensive blockchain infrastructure and developer platform that offers a range of tools and services to simplify the development and scaling of blockchain applications. It provides developers with features like API access, analytics, debugging, and performance optimization, making it easier to build and maintain blockchain-based projects. Alchemy is known for its reliability and scalability, making it a valuable resource for those working on blockchain applications and services.
 
 ---
@@ -59,10 +68,10 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 <img width="3382" alt="Untitled (1)" src="https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/cd597d3e-854e-4f97-a27e-e9f0c6be2aca">
 
-
 ---
 
 ## Literature Survey
+
 **[1] Goel, A. K., Bakshi, R., & Agrawal, K. K. (2022). Web 3.0 and decentralized applications. Materials Proceedings, 10(1), 8.**
 
 > The evolution of the World Wide Web has witnessed distinct phases, each reflecting advancements in functionality and user interaction. Web 1.0, the initial iteration, was characterized by static content and a read-only nature. Users were passive consumers, and developers held the role of creators, building on open protocols such as HTTP and FTP. Web 2.0 marked a significant shift towards interactivity, where users became creators through platforms like Facebook and Twitter. However, this shift brought challenges, including increased access to user data by platform owners. Now, Web 3.0 is emerging as a decentralized Internet, seeking to address these challenges. It aims to empower users to control their data, utilizing crypto-economic networks like Bitcoin and Ethereum. The term "decentralization" becomes paramount, as Web 3.0 applications, or Dapps, operate on blockchains or decentralized P2P networks. This paradigm shift ensures a healthier, more accessible internet, fostering a competitive landscape among developers to deliver secure and quality services.
@@ -99,6 +108,7 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 > In the context of our project, this literature review informs and validates our decision to integrate decentralized identity management using blockchain technology. The paper's insights into on-chain and off-chain identity aspects, along with the proposed orchestration solution, provide valuable guidance. The emphasis on privacy in off-chain identities aligns with our project's commitment to empowering users with control over their digital assets while ensuring a high level of privacy. Additionally, the recognition of MetaMask as a prominent Web3 wallet resonates with our choice of leveraging MetaMask for establishing the essential linkage between our React.js application and the Ethereum network, enhancing the overall user experience. The paper's contribution to the understanding of decentralized identity principles significantly contributes to the conceptual foundation of our project, emphasizing security, privacy, and user empowerment.
 
+---
 
 ## Project Breakdown 📒
 
@@ -163,6 +173,12 @@ In essence, our Web 3.0 application is an embodiment of the transformative poten
 
 ---
 
+## Project Implementation
+
+<img width="3382" alt="Untitled (1)" src="https://github.com/Ganesh-Th/Chain_of_Bits/assets/142743926/cd597d3e-854e-4f97-a27e-e9f0c6be2aca">
+
+---
+
 ## Code Explanation 🖥️
 
 ```solidity
@@ -219,20 +235,22 @@ contract Transactions {
 }
 ```
 
-
 ### Explanation:
+
 - **`SPDX-License-Identifier: UNLICENSED`**: Indicates the license under which the smart contract is released.
 - **`pragma solidity ^0.8.0;`**: Specifies the Solidity compiler version the contract is compatible with.
 - **`import "hardhat/console.sol";`**: Imports the Hardhat console library for debugging purposes.
 - **`contract Transactions { ... }`**: Defines the main smart contract named 'Transactions'.
 
 ### Inside the contract:
+
 - **`uint256 transactionCount;`**: A state variable to track the total number of transactions.
 - **`event Transfer(...);`**: An event emitted when a transfer occurs, providing details about the transaction.
 - **`struct TransferStruct { ... }`**: Defines a struct to represent a transaction with various attributes.
 - **`TransferStruct[] transactions;`**: An array to store all transactions.
 
 ### Functions:
+
 - **`addToBlockchain(...)`**: Adds a new transaction to the blockchain, increments the transaction count, and emits the `Transfer` event.
 - **`getAllTransactions()`**: Retrieves all transactions stored in the array.
 - **`getTransactionCount()`**: Returns the total number of transactions.
@@ -250,13 +268,12 @@ Here's how it works:
 2. **Flexible Reward Conversion:** Accumulated Bitcoin rewards can be seamlessly converted into Ethereum, providing users with flexibility and the ability to choose the form of digital assets that best suit their preferences and investment strategies.
 
 3. **User Account Integration:** The converted Ethereum can be directly added to the user's account within our application, streamlining the process and ensuring a seamless user experience.
-  
+
 4. **Incremental Deployment Model:** We plan to deploy our application in an incremental model, releasing updates with new features regularly. This approach allows us to continuously enhance the user experience and introduce innovative functionalities over time.
 
 This innovative addition not only enhances user engagement but also adds a unique dimension to the value proposition of our platform. By intertwining the worlds of Bitcoin and Ethereum, we aim to provide users with a comprehensive and rewarding experience, aligning with the ever-evolving landscape of blockchain technology.
 
 - - - - - - - - - - - - - - - - - - -
-
 
 ## References 🧾
 
